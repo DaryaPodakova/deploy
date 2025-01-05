@@ -1,0 +1,9 @@
+,dt,com,transaction_type,amount
+0,01/03/2025,TSLA,buy,565
+1,01/03/2025,PFE,buy,744
+2,01/03/2025,INTC,buy,295
+3,01/03/2025,BAC,buy,287
+4,01/03/2025,TSLA,sell,898
+5,01/03/2025,PFE,sell,234
+6,01/03/2025,INTC,sell,914
+7,01/03/2025,BAC,sell,380
